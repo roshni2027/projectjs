@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+}
+#start{
+    background-color: rgb(57, 133, 156);
+    height: 50px;
+    width: 50px;
+    
+    
+
+}
+#stop{
+    background-color: rgb(68, 18, 38);
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    
+    
+}
